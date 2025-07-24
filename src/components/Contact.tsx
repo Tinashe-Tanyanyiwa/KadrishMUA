@@ -81,8 +81,6 @@ const Contact = () => {
     "Special Events",
     "Editorial/Photoshoot",
     "Everyday Makeup",
-    "Makeup Lessons",
-    "Group Bookings",
   ];
 
   return (
